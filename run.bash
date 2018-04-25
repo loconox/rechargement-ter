@@ -1,6 +1,7 @@
 #!/bin/bash
 
-EXE_FILENAME="setup-rechargement-SNCF-TER-v1_9-x32.exe"
+URL="https://www.ter.ritmx.sncf.com/ter/html/MVC/index.jsp?choixTypeSupport=0&modeIntegre=1&region=07"
+EXE_FILENAME="setup-rechargement-SNCF-TER-v1_10-x32.exe"
 EXE_URL="https://www.ter.ritmx.sncf.com/cache/installer/$EXE_FILENAME"
 JAR_FILENAME="app/app/clientDomter-jfx.jar"
 
